@@ -1,0 +1,15 @@
+/* .wrapper {
+    flex-direction: column-reverse;
+    display: flex;
+    align-items: center;
+} */
+
+#itens-droopdown {
+    margin-bottom: 0;
+    padding-top: 2px;
+    padding-block-end: 2px;
+}
+
+#container-droopdown {
+    top: 55px;
+}
